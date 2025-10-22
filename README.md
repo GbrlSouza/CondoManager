@@ -63,13 +63,13 @@
 
 ### **💡 Recursos Implementados:**
 
-✅ **Gestão de Condomínios** - Cadastro completo com síndicos
-✅ **Gestão de Moradores** - Proprietários, inquilinos e unidades vagas  
-✅ **Sistema de Pagamentos** - Com multas automáticas por atraso
-✅ **Reserva de Espaços** - Salões, playground, área pet
-✅ **Chat Integrado** - Comunicação entre todos os usuários
-✅ **Dashboards Personalizados** - Por tipo de usuário
-✅ **Controle de Acesso** - Baseado em roles
-✅ **Relatórios** - Financeiros e operacionais
-✅ **Manutenção** - Solicitações e controle
-✅ **Interface Responsiva** - Funciona em desktop e mobile
+- ✅ **Gestão de Condomínios** - Cadastro completo com síndicos
+- ✅ **Gestão de Moradores** - Proprietários, inquilinos e unidades vagas  
+- ✅ **Sistema de Pagamentos** - Com multas automáticas por atraso
+- ✅ **Reserva de Espaços** - Salões, playground, área pet
+- ✅ **Chat Integrado** - Comunicação entre todos os usuários
+- ✅ **Dashboards Personalizados** - Por tipo de usuário
+- ✅ **Controle de Acesso** - Baseado em roles
+- ✅ **Relatórios** - Financeiros e operacionais
+- ✅ **Manutenção** - Solicitações e controle
+- ✅ **Interface Responsiva** - Funciona em desktop e mobile
